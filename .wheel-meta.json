@@ -1,0 +1,22 @@
+{
+  "wheel_id": 971,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-154",
+  "project": "kitchen-renovations-eastern-melbourne-red-flags-798543be4ce0ba8",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-013",
+  "node_role": "buffer",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne red flags",
+  "intended_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-154/",
+  "tier": "T2",
+  "writeback_nonce": "c5be8136ce3482d1",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-eastern-melbourne-melbourneeastkitchenrenovation-013/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-eastern-melbourne-melbourneeastkitchenrenovation-013/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
